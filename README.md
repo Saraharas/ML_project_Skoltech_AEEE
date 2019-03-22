@@ -10,4 +10,4 @@ Anastasiia Ryzhova - algorithm comparison on toy data
 
 
 
-P.S The part of this project was also presented on course Information and coding theory
+P.S Joint project with Coding Theory
