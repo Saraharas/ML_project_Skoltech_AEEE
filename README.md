@@ -7,3 +7,7 @@ Elena Buglakova - algorithm implementation;
 Elizaveta Yudina - image segmentation;
 Ekaterina Kovalenko - algorithm comparison on real data;
 Anastasiia Ryzhova - algorithm comparison on toy data
+
+
+
+P.S The part of this project was also presented on course Information and coding theory
